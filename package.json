@@ -1,0 +1,11 @@
+{
+  "name": "sails-views-jade",
+  "version": "0.1.0",
+  "description": "sails-views-jade",
+  "author": "Peter Andreas Moelgaard <admin@petermolgaard.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "Git",
+    "url": "https://github.com/pmoelgaard/sails-views-jade"
+  }
+}
